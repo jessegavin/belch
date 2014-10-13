@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+*.log
+*.orig
+/target/coverage
+.coveralls.yml
+/bower_components/
