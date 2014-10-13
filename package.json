@@ -7,12 +7,22 @@
   },
   "main": "lib/index.js",
   "author": {
-    "name": "Jesse Gavin"
+    "name": "Chris Montgomery"
   },
   "contributors": [
     {
+      "name": "Chris Montgomery"
+    },
+    {
       "name": "Jesse Gavin"
     }
+  ],
+  "keywords": [
+    "belch",
+    "notify",
+    "notification",
+    "sound",
+    "sounds"
   ],
   "license": "MIT",
   "dependencies": {
