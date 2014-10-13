@@ -1,6 +1,6 @@
 {
   "name": "belch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Play a belch sound",
   "bin": {
     "belch": "./bin/belch.js"
