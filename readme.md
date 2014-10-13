@@ -3,11 +3,19 @@
 ## Install
 
 ```bash
-npm install --save belch
+npm install -g belch
 ```
 
 ## Usage
 
+default:
+
 ```bash
-node bin/belch -s belly_laugh
+belch
+```
+
+other options:
+
+```bash
+belch --help
 ```

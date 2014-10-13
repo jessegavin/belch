@@ -11,5 +11,5 @@ program
 if (program.sound) {
   belch(program.sound);
 } else {
-  console.log('ERROR: argument required');
+  belch('belch');
 }
