@@ -5,6 +5,7 @@
   "bin": {
     "belch": "./bin/belch.js"
   },
+  "main": "lib/index.js",
   "author": {
     "name": "Jesse Gavin"
   },
