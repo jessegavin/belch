@@ -1,5 +1,7 @@
 # belch
 
+> Play a sound. Useful for many things.
+
 ## Install
 
 ```bash
